@@ -19,7 +19,7 @@ I'm Shalwin, a full-stack developer with a passion for building innovative, user
 - **Styling:** TailwindCSS, DaisyUI, MaterialUI
 - **Tools:** Git, Webpack, VSCode
 
-- Looking to push the limits of technology and creativity? Let's connect and build something amazing!
+Looking to push the limits of technology and creativity? Let's connect and build something amazing!
 
 <!---
 shalwin04/shalwin04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
