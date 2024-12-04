@@ -5,7 +5,7 @@ I'm Shalwin, a full-stack developer with a passion for building innovative, user
 
 ## About Me
 
-- 🔭 I’m currently working on: Developing an AI agent for code refactoring in the MERN Stack.
+- 🔭 I’m currently working on: Developing a Productivity extension using Chrome built-in ai api's
 - 🌱 I’m learning: Exploring LangGraph and deepening my knowledge of LLM applications in development.
 - 👯 I’m looking to collaborate on: Projects that blend creativity with technology, especially in the realms of AI.
 - 💬 Ask me about: React, Node.js, LangChain, TypeScript, TailwindCSS, conversational agents or anything related to building LLM applications.
@@ -17,7 +17,7 @@ I'm Shalwin, a full-stack developer with a passion for building innovative, user
 - **Frameworks:** React, Express, Node.js, LangChain
 - **Databases:** Supabase, MongoDB
 - **Styling:** TailwindCSS, DaisyUI, MaterialUI
-- **Tools:** Git, Webpack, VSCode
+- **Tools:** Git, Webpack, VSCode, Postman
 
 Looking to push the limits of technology and creativity? Let's connect and build something amazing!
 
